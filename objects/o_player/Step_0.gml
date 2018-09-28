@@ -4,3 +4,6 @@ keyUp = keyboard_check(ord("W"));
 keyDown = keyboard_check(ord("S"));
 keySpace = keyboard_check(vk_space);
 
+sc_movement(keyLeft,keyRight,keyUp,keyDown,keySpace,spd);
+
+
